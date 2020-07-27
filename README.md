@@ -8,5 +8,5 @@
 
 ## :rocket: Technologies
 
- - [Docker](https://github.com/Alextnetto/notes/docker)
- - [PostgreSQL](https://github.com/Alextnetto/notes/postregsql)
+ - [Docker](https://github.com/Alextnetto/notes/tree/master/docker)
+ - [PostgreSQL](https://github.com/Alextnetto/notes/tree/master/postgresql)

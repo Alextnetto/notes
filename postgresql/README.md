@@ -1,4 +1,4 @@
-#Learn_Postgres
+# Learn_Postgres
 
 Instale libpq-dev, pode poupar de alguns problemas inesperados:
 ```bash
